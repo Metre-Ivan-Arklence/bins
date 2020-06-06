@@ -4,6 +4,6 @@
   "app.splitColumns": true,
   "editor.lineWrapping": true,
   "editor.lineNumbers": true,
-  "app.theme": "dark",
+  "app.theme": "light",
   "javascript.autoRun": false
 }
